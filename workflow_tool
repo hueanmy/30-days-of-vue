@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T10:15:18.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0aIJK2292dVVLvesJiXN" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T10:17:56.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="TVDSKqrObZWCwYgnpo3x" version="14.4.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,6 +232,21 @@
         </mxCell>
         <mxCell id="7Ez9JlqMwkRRpGyR5oRL-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="7Ez9JlqMwkRRpGyR5oRL-62" target="7Ez9JlqMwkRRpGyR5oRL-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ez9JlqMwkRRpGyR5oRL-88" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#ff3333&quot;&gt;Confirming&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="640" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ez9JlqMwkRRpGyR5oRL-89" value="Ticket status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="640" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ez9JlqMwkRRpGyR5oRL-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#F0A30A;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="680" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ez9JlqMwkRRpGyR5oRL-91" value="Gitlab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="680" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ez9JlqMwkRRpGyR5oRL-92" value="&lt;font style=&quot;font-size: 14px&quot;&gt;--NOTE--&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="640" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
