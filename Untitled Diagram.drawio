@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T02:16:08.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="6JUwqn6xTRhAyDAsw-YS" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T02:25:26.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="MoXSAsNy0JjfcN3oRCXU" version="14.4.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,13 +45,13 @@
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-52" value="OK?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="2000" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-55" value="Close ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-55" value="Close ticket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="2170" y="89" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-61" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="2340" y="100" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-63" value="Checking know how" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-63" value="Checking know how" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="1110" y="17" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="7MUZo-UXY0UL-2Fm9ZRf-65" target="7MUZo-UXY0UL-2Fm9ZRf-55">
@@ -120,7 +120,7 @@
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="7MUZo-UXY0UL-2Fm9ZRf-18" target="7MUZo-UXY0UL-2Fm9ZRf-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-18" value="Create story ticket with tracker is Q&amp;amp;A in Redmine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-18" value="Create story ticket with tracker is Q&amp;amp;A in Redmine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="470" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-22" value="TSDV Reviewing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
@@ -152,13 +152,13 @@
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="7MUZo-UXY0UL-2Fm9ZRf-29" target="7MUZo-UXY0UL-2Fm9ZRf-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-29" value="Checking in know-how" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-29" value="Checking in know-how" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="950" y="110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-31" value="Create answer template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="1390" y="110" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-38" value="Collect and classify to know-how" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-38" value="Collect and classify to know-how" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="1650" y="110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="7MUZo-UXY0UL-2Fm9ZRf-41" target="7MUZo-UXY0UL-2Fm9ZRf-31">
