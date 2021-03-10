@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T02:25:26.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="MoXSAsNy0JjfcN3oRCXU" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T04:09:55.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="pK0HBVZu2B1Vm4mHLbGF" version="14.4.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-96" value="19" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0000FF;fontColor=#0000FF;fontSize=8;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="2190" y="94" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-103" value="Close ticket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontColor=#FF0000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="2100" y="119" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.64;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="7MUZo-UXY0UL-2Fm9ZRf-36" target="7MUZo-UXY0UL-2Fm9ZRf-31">
           <mxGeometry relative="1" as="geometry" />
@@ -202,6 +205,15 @@
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-93" value="16" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0000FF;fontColor=#0000FF;fontSize=8;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="1670" y="114" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-100" value="&lt;font&gt;Confirming&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontColor=#FF0000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="590" y="120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-102" value="Confirming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontColor=#FF0000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1170" y="20" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-104" value="Confirming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontColor=#FF0000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1870" y="40" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7MUZo-UXY0UL-2Fm9ZRf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-24" target="7MUZo-UXY0UL-2Fm9ZRf-1">
           <mxGeometry relative="1" as="geometry" />
